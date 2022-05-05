@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">RecylerView</string>
+    <string-array name="amino_acids_full_txt">
+        <item>Kenya</item>
+        <item>Spain</item>
+        <item>Vietnam</item>
+        <item>Portugal</item>
+        <item>Italy</item>
+        <item>Indonesia</item>
+        <item>India</item>
+        <item>Britain</item>
+        <item>Germany</item>
+        <item>France</item>
+        <item>China</item>
+    </string-array>
+
+
+    <string-array name="amino_acids_three_letter_txt">
+        <item>K</item>
+        <item>S</item>
+        <item>V</item>
+        <item>P</item>
+        <item>I</item>
+        <item>I</item>
+        <item>I</item>
+        <item>B</item>
+        <item>G</item>
+        <item>F</item>
+        <item>C</item>
+    </string-array>
+
+
+    <string-array name="amino_acids_one_letter_txt">
+        <item>Ka</item>
+        <item>Sn</item>
+        <item>Vm</item>
+        <item>Pl</item>
+        <item>Iy</item>
+        <item>Ia</item>
+        <item>Ia</item>
+        <item>Bn</item>
+        <item>Gy</item>
+        <item>Fe</item>
+        <item>Ca</item>
+    </string-array>
+</resources>
